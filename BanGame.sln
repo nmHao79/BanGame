@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanGame", "BanGame\BanGame.csproj", "{84B90424-DE09-41DE-9638-5C5249FCD436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B90424-DE09-41DE-9638-5C5249FCD436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B90424-DE09-41DE-9638-5C5249FCD436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B90424-DE09-41DE-9638-5C5249FCD436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B90424-DE09-41DE-9638-5C5249FCD436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06389A2F-FD33-490C-A8DC-8A8D56F624D3}
+	EndGlobalSection
+EndGlobal
